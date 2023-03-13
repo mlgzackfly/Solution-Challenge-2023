@@ -1,0 +1,43 @@
+{
+  "home": {
+    "trafficNews": "Traffic News",
+    "roadNews": "Road News",
+    "more": "more...",
+    "causeTrouble": "cause trouble",
+    "routePlanning":"route planning",
+    "feedback": "Feedback",
+    "loginFirst": "Please login",
+    "login": "Login",
+    "loginSuccess": "Login Success",
+    "home": "home",
+    "weatherForecast": "Weather Forecast",
+    "attractions": "Attractions",
+    "memberOnly": "member Only",
+    "exitApp": "Tap the back button twice to leave the app"
+  },
+  "member": {
+    "title": "Members Only",
+    "logout": "Logout",
+    "language": "Language :"
+  },
+  "weather": {
+    "WeatherForecastDescription": "Weather Forecast Description",
+    "alert": "Danger Alert",
+    "rainfall": "3 hours cumulative rainfall"
+  },
+  "feedback": {
+    "place": "Place",
+    "content": "Content",
+    "photo": "Photo",
+    "Description": "To save server space, photos are uploaded directly to Imgur",
+    "choosePhoto": "Choose Photo",
+    "uploadPhoto": "Upload Photo"
+  },
+  "roadplan": {
+    "source": "source",
+    "destination": "destination",
+    "suggest": "suggested",
+    "current": "Current",
+    "faster": "faster"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "home": {
+    "trafficNews": "交通新聞",
+    "roadNews": "路況新聞",
+    "more": "查看更多",
+    "causeTrouble": "肇事熱點",
+    "routePlanning":"路程規劃",
+    "feedback": "路況回饋",
+    "loginFirst": "尚未登入",
+    "loginSuccess": "登入成功",
+    "login": "登入",
+    "home": "首頁",
+    "weatherForecast": "天氣預報",
+    "attractions": "友善景點",
+    "memberOnly": "會員專區",
+    "exitApp": "點擊兩次返回鍵來離開 app"
+  },
+  "member": {
+    "title": "會員專區",
+    "logout": "登出",
+    "language": "語言："
+  },
+  "weather": {
+    "WeatherForecastDescription": "天氣預報描述",
+    "alert": "危險警報",
+    "rainfall": "3 小時累積雨量"
+  },
+  "feedback": {
+    "place": "地點",
+    "content": "內容",
+    "photo": "照片",
+    "Description": "為了節省伺服器空間，照片會直接上傳至Imgur",
+    "choosePhoto": "選擇照片",
+    "uploadPhoto": "上傳照片"
+  },
+  "roadplan": {
+    "source": "出發點",
+    "destination": "目的地",
+    "suggest": "建議路線",
+    "current": "目前位置",
+    "faster": "較快路線"
+  }
+}
