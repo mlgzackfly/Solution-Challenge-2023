@@ -1,18 +1,22 @@
-# 安全帶著走
+# SafeGO
 
-提供預先查詢高風險路段的服務，使用者可以在出發前預先輸入行程，本 APP 便會預先告知會經過哪些危險路段，及該路段的肇事原因和相關統計數字，並提供較安全的路線選擇，以避開危險路段。在行經過程中，APP 會透過使用者的 GPS 定位，當使用者靠近危險路段 300 公尺時，系統會以語音方式及時跳出通知，主動提醒使用者要注意用路安全，希望藉此可以降低道路事故發生。
+SafeGO provides a service to query high-risk road sections in advance. Users can enter their itinerary in advance before departure, and this app will inform them of which dangerous road sections they will pass through, the causes of accidents on those sections, relevant statistical information, and provide safer route options to avoid dangerous sections. While traveling, the app will use the user's GPS location. When the user approaches a dangerous road section within 300 meters, the system will notify the user in real-time through voice prompts, reminding them to pay attention to road safety, in the hope of reducing road accidents.
 
+## How to Run
 
-## 執行方式
+1. Install dependencies:
 
-1. 先安裝所需 dependencies
 ```
 flutter pub get
 ```
-2. 執行程式
+
+
+2. Run the program:
+
 ```
 flutter run
 ```
-如需在使定設備上執行，可執行`flutter run -d <deviceID>`
 
-* deviceID 可執行 ``flutter devices`` 查看
+To run on a specific device, execute `flutter run -d <deviceID>`
+
+* The deviceID can be obtained by running `flutter devices`.
